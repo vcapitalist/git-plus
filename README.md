@@ -1,4 +1,4 @@
-# git-plus
+git-plus
 git-test
-COMMIT
+FORCE COMMIT
 
