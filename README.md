@@ -1,4 +1,4 @@
 # git-plus
 git-test
-FORCED
+FORCE COMMIT
 
